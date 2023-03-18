@@ -1,0 +1,2 @@
+First number is 5, second number is 6, thid number is 9
+So, we have three numbers.
