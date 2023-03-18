@@ -28,7 +28,7 @@
      ```    
 * __Запускаем__
      ```
-     ./program_4/program4.exe ./tests/input.txt/program_4/output_tests/output.txt
+     ./program_4/program4.exe ./input_files/input.txt/program_4/output_files/output.txt
      ``` 
 ### 4. Для каждого из тестовых файлов представлен файл, полученный в результате работы программы:
 * [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_4/output_files)
@@ -52,7 +52,7 @@
      ```    
 * __Запускаем__
      ```
-     ./program_5/program5.exe ./tests/input.txt/program_5/output_tests/output.txt
+     ./program_5/program5.exe ./input_files/input.txt/program_5/output_files/output.txt
      ``` 
 ### 4. Для каждого из тестовых файлов представлен файл, полученный в результате работы программы:
 * [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_5/output_files)
@@ -76,7 +76,7 @@
      ```    
 * __Запускаем__
      ```
-     ./program_6/program6.exe ./tests/input.txt/program_6/output_tests/output.txt
+     ./program_6/program6.exe ./input_files/input.txt/program_6/output_files/output.txt
      ``` 
 ### 4. Для каждого из тестовых файлов представлен файл, полученный в результате работы программы:
 * [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_6/output_files)
@@ -100,7 +100,7 @@
      ```    
 * __Запускаем__
      ```
-     ./program_7/program7.exe ./tests/input.txt/program_7/output_tests/output.txt
+     ./program_7/program7.exe ./input_files/input.txt/program_7/output_files/output.txt
      ``` 
 ### 4. Для каждого из тестовых файлов представлен файл, полученный в результате работы программы:
 * [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_7/output_files)
@@ -127,7 +127,7 @@
      ```
 * __Запускаем в разных терминалах в любом порядке__
      ```
-     ./program_8/program8_first.exe ./tests/input.txt/program_4/output_tests/output.txt
+     ./program_8/program8_first.exe ./input_files/input.txt/program_8/output_files/output.txt
      ./program_8/program8_second.exe
      ``` 
      ![Untitled](https://user-images.githubusercontent.com/100044301/226130725-90b4f6e3-9bec-4b77-b1e5-fd4030bf86aa.png)
