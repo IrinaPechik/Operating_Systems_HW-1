@@ -24,7 +24,7 @@
 ### 3. Как запустить программу:
 * __Компилируем__
      ```
-     gcc program_4/program4.c - o program_4/program4.exe
+     gcc program_4/program4.c -o program_4/program4.exe
      ```    
 * __Запускаем__
      ```
@@ -48,7 +48,7 @@
 ### 3. Как запустить программу:
 * __Компилируем__
      ```
-     gcc program_5/program5.c - o program_5/program5.exe
+     gcc program_5/program5.c -o program_5/program5.exe
      ```    
 * __Запускаем__
      ```
@@ -72,7 +72,7 @@
 ### 3. Как запустить программу:
 * __Компилируем__
      ```
-     gcc program_6/program6.c - o program_6/program6.exe
+     gcc program_6/program6.c -o program_6/program6.exe
      ```    
 * __Запускаем__
      ```
@@ -96,7 +96,7 @@
 ### 3. Как запустить программу:
 * __Компилируем__
      ```
-     gcc program_7/program7.c - o program_7/program7.exe
+     gcc program_7/program7.c -o program_7/program7.exe
      ```    
 * __Запускаем__
      ```
@@ -120,10 +120,10 @@
 ### 3. Как запустить программу:
 * __Компилируем__
      ```
-     gcc program_8/program8_first.c - o program_8/program8_first.exe
+     gcc program_8/program8_first.c -o program_8/program8_first.exe
      ``` 
      ```
-     gcc program_8/program8_second.c - o program_8/program8_second.exe
+     gcc program_8/program8_second.c -o program_8/program8_second.exe
      ```
 * __Запускаем в разных терминалах в любом порядке__
      ```
@@ -133,4 +133,4 @@
      ![Untitled](https://user-images.githubusercontent.com/100044301/226130725-90b4f6e3-9bec-4b77-b1e5-fd4030bf86aa.png)
 
 ### 4. Для каждого из тестовых файлов представлен файл, полученный в результате работы программы:
-* [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_8/output_files)
+* [output_files](https://github.com/IrinaPechik/Operating_Systems_HW-1/tree/main/program_8/output_tests)
