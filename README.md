@@ -14,7 +14,7 @@
 ### 1. Приведено решение на С:
 ---
 * __Главный файл__: [program4.c](https://github.com/IrinaPechik/Operating_Systems_HW-1/blob/main/program_4/program4.c)
-
+ 
 * __Файл с функцией для нахождения количества чисел в ASCII-строке__: [function.c](https://github.com/IrinaPechik/Operating_Systems_HW-1/blob/main/function.c)  
 ---
 ### 2. Общая схема решения задачи:
